@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\liuli\\source\\repos\\GitHubTest\\GitHubTest\\GitHubTest.csproj",
+      "projectUniqueName": "C:\\Users\\liuli\\Source\\Repos\\6.24\\GitHubTest\\GitHubTest\\GitHubTest.csproj",
       "projectName": "GitHubTest",
-      "projectPath": "C:\\Users\\liuli\\source\\repos\\GitHubTest\\GitHubTest\\GitHubTest.csproj",
+      "projectPath": "C:\\Users\\liuli\\Source\\Repos\\6.24\\GitHubTest\\GitHubTest\\GitHubTest.csproj",
       "packagesPath": "C:\\Users\\liuli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\liuli\\source\\repos\\GitHubTest\\GitHubTest\\obj\\",
+      "outputPath": "C:\\Users\\liuli\\Source\\Repos\\6.24\\GitHubTest\\GitHubTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VS2019\\SDK\\NuGetPackages",
