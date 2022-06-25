@@ -7,7 +7,7 @@ namespace GitHubTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("刘醴泉666");
+            Console.WriteLine("刘醴泉6669999");
             
         }
     }
